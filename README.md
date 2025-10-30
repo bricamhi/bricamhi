@@ -5,19 +5,20 @@ Soy **Técnico en Sistemas Microinformáticos y Redes** y actualmente **estudian
 Combino experiencia en **soporte técnico y programación** con una fuerte orientación hacia la **mejora continua** y el **aprendizaje de nuevas tecnologías**.  
 
 📍 Madrid, España  
-📧 [Tu correo profesional]  
-🌐 [Tu portfolio o GitHub si lo tienes]  
+📧 briancambatrabajo@gmail.com    
 
 ---
 
-## 🧠 Habilidades Técnicas y Personales  
 
-### 💻 Técnicas  
-- 🛠️ Resolución de problemas de hardware y software  
-- 💾 Soporte técnico remoto y presencial (Windows, Ofimática)  
-- 🧾 Gestión de tickets e incidencias  
-- 🌐 Configuración de redes, impresoras y equipos  
-- 🧰 Instalación y mantenimiento de sistemas informáticos  
+### 💻 **Habilidades Técnicas**
+
+🚀 **Resolución de problemas:** 🧰 Hardware & 💽 Software  
+🖥️ **Soporte Técnico:** 🌐 Remoto / 🏢 Presencial (Windows, Ofimática)  
+🎨 **Front-end:** 🧡 HTML | 💙 CSS | 💛 JavaScript | 🅱️ Bootstrap | 🔺 Angular  
+🧩 **Back-end:** ☕ Java | 🐘 PHP | 🐚 Shell (Linux)  
+☁️ **Cloud:** ☁️ AWS | 🔷 Azure  
+
+
 
 ### 🤝 Personales  
 - 💬 Comunicación y liderazgo  
@@ -41,7 +42,6 @@ Combino experiencia en **soporte técnico y programación** con una fuerte orien
 
 - 🎓 **Técnico en Sistemas Microinformáticos y Redes** – IES Enrique Tierno Galván / IES Villaverde  
 - 💻 **Desarrollo de Aplicaciones Web (2º DAW)** – en curso (2024–2026)  
-- 🏊‍♂️ **Curso de Socorrista Acuático** – Escuela Madrileña de Socorrismo (2025)  
 
 ---
 
