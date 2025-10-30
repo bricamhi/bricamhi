@@ -1,34 +1,64 @@
-# Brian Camba
+# 👨‍💻 Brian Camba  
 
-## Perfil
-Técnico en Sistemas Microinformáticos y Redes, actualmente desarrollador web y estudiante de 2º DAW. Apasionado por la tecnología y el desarrollo de soluciones digitales eficientes y funcionales. Experiencia tanto en soporte técnico como en programación, con enfoque en la mejora continua y el aprendizaje de nuevas tecnologías[file:4].
+## 💡 Sobre mí  
+Soy **Técnico en Sistemas Microinformáticos y Redes** y actualmente **estudiante de 2º DAW**, apasionado por la tecnología, el desarrollo web y las soluciones digitales eficientes.  
+Combino experiencia en **soporte técnico y programación** con una fuerte orientación hacia la **mejora continua** y el **aprendizaje de nuevas tecnologías**.  
 
-## Habilidades
-- Resolución de problemas técnicos (hardware y software)[file:4]
-- Soporte remoto y presencial en sistemas Windows y ofimática[file:4]
-- Gestión de tickets y documentación de incidencias[file:4]
-- Configuración de redes, impresoras y equipos informáticos[file:4]
-- Trabajo en equipo y atención al cliente[file:4]
-- Comunicación, liderazgo y pensamiento analítico[file:4]
-- Flexibilidad y adaptación a nuevos retos tecnológicos[file:4]
+📍 Madrid, España  
+📧 [Tu correo profesional]  
+🌐 [Tu portfolio o GitHub si lo tienes]  
 
-## Experiencia Profesional
-**Técnico de Soporte Informático N1 y N2 (2022-2024, Datarecover)**
-- Resolución de incidencias técnicas para usuarios y empresas[file:4]
-- Gestión de tickets y escalado de casos complejos[file:4]
-- Instalación y configuración de hardware, software y redes[file:4]
-- Atención al cliente, presencial y remota, enfocada en rapidez y eficacia[file:4]
+---
 
-## Formación Académica
-- Técnico en Sistemas Microinformáticos y Redes (IES ENRIQUE TIERNO GALVÁN / IES VILLAVERDE)[file:4]
-- Actualmente, estudiante de 2º DAW (2024-2026)[file:4]
-- Curso de Socorrista Acuático (Escuela Madrileña de Socorrismo, 2025)[file:4]
+## 🧠 Habilidades Técnicas y Personales  
 
-## Proyectos Destacados
-- Participación en el concurso de programación ProgramaMe Madrid 2025 como parte del equipo “Eclipsados”[file:4].
+### 💻 Técnicas  
+- 🛠️ Resolución de problemas de hardware y software  
+- 💾 Soporte técnico remoto y presencial (Windows, Ofimática)  
+- 🧾 Gestión de tickets e incidencias  
+- 🌐 Configuración de redes, impresoras y equipos  
+- 🧰 Instalación y mantenimiento de sistemas informáticos  
 
-## Más Información
-- Carnet de conducir B[file:4]
-- Interés en el aprendizaje continuo y nuevas tecnologías[file:4]
-- Incorporación inmediata[file:4]
-- Buena disposición para el trabajo en equipo y la atención al detalle[file:4]
+### 🤝 Personales  
+- 💬 Comunicación y liderazgo  
+- 🧩 Trabajo en equipo y atención al cliente  
+- 🔍 Pensamiento analítico y resolución de problemas  
+- 🔄 Adaptabilidad y aprendizaje rápido  
+
+---
+
+## 💼 Experiencia Profesional  
+
+**🖥️ Técnico de Soporte Informático N1/N2 – Datarecover (2022–2024)**  
+- Resolución de incidencias técnicas para usuarios y empresas  
+- Gestión de tickets y escalado de casos complejos  
+- Instalación y configuración de hardware, software y redes  
+- Atención al cliente presencial y remota, priorizando rapidez y eficacia  
+
+---
+
+## 🎓 Formación Académica  
+
+- 🎓 **Técnico en Sistemas Microinformáticos y Redes** – IES Enrique Tierno Galván / IES Villaverde  
+- 💻 **Desarrollo de Aplicaciones Web (2º DAW)** – en curso (2024–2026)  
+- 🏊‍♂️ **Curso de Socorrista Acuático** – Escuela Madrileña de Socorrismo (2025)  
+
+---
+
+## 🚀 Proyectos Destacados  
+
+- 👾 **ProgramaMe Madrid 2025**  
+  Participación en el concurso de programación con el equipo **“Eclipsados”**, desarrollando soluciones lógicas y optimizadas en entornos competitivos.  
+
+---
+
+## 🔎 Más Información  
+
+- 🚗 Carnet de conducir **B**  
+- 📚 Interés en aprendizaje continuo y nuevas tecnologías  
+- ⚡ Incorporación inmediata  
+- 🤝 Compromiso, atención al detalle y trabajo en equipo  
+
+---
+
+💬 *“La tecnología no solo resuelve problemas, también crea oportunidades.”*  
