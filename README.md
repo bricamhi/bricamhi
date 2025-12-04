@@ -15,7 +15,7 @@ Combino experiencia en **soporte técnico y programación** con una fuerte orien
 🚀 **Resolución de problemas:** 🧰 Hardware & 💽 Software  
 🖥️ **Soporte Técnico:** 🌐 Remoto / 🏢 Presencial (Windows, Ofimática)  
 🎨 **Front-end:** 🧡 HTML | 💙 CSS | 💛 JavaScript | 🅱️ Bootstrap
-🧩 **Back-end:** ☕ Java | 🐘 PHP | 🐚 Shell (Linux)  
+🧩 **Back-end:** ☕ Java | 🐘 PHP | 🐚 Shell (Linux)
 ☁️ **Cloud:** ☁️ AWS
 
 
