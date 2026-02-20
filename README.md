@@ -1,7 +1,7 @@
 # 👨‍💻 Brian Camba  
 
 ## 💡 Sobre mí  
-Soy **Técnico en Sistemas Microinformáticos y Redes** y actualmente **estudiante de 2º DAW**, apasionado por la tecnología, el desarrollo web y las soluciones digitales eficientes.  
+Soy **Técnico en Sistemas Microinformáticos y Redes** y actualmente **Desarrollador de Aplicaciones Web**, apasionado por la tecnología, el desarrollo de software y las soluciones digitales eficientes.  
 Combino experiencia en **soporte técnico y programación** con una fuerte orientación hacia la **mejora continua** y el **aprendizaje de nuevas tecnologías**.  
 
 📍 Madrid, España  
@@ -30,7 +30,7 @@ Combino experiencia en **soporte técnico y programación** con una fuerte orien
 
 ## 💼 Experiencia Profesional  
 
-**🖥️ Técnico de Soporte Informático N1/N2 – Datarecover (2022–2024)**  
+**🖥️ Técnico de Soporte Informático N1/N2 – Datarecover (2024)**  
 - Resolución de incidencias técnicas para usuarios y empresas  
 - Gestión de tickets y escalado de casos complejos  
 - Instalación y configuración de hardware, software y redes  
@@ -40,25 +40,24 @@ Combino experiencia en **soporte técnico y programación** con una fuerte orien
 
 ## 🎓 Formación Académica  
 
-- 🎓 **Técnico en Sistemas Microinformáticos y Redes** – IES Enrique Tierno Galván / IES Villaverde  
-- 💻 **Desarrollo de Aplicaciones Web (2º DAW)** – en curso (2024–2026)  
+- 🎓 **Técnico en Sistemas Microinformáticos y Redes** – IES Enrique Tierno Galván (2022-2024)
+- 💻 **Técnico en Desarrollo de Aplicaciones Web** – IES Villaverde (2024–2026)  
 
 ---
 
 ## 🚀 Proyectos Destacados  
 
 - 👾 **ProgramaMe Madrid 2025**  
-  Participación en el concurso de programación con el equipo **“Eclipsados”**, desarrollando soluciones lógicas y optimizadas en entornos competitivos.  
+  Participación en el concurso de programación con el equipo **“Eclipsados”**, desarrollando soluciones lógicas y optimizadas en Java.   
 
 ---
 
 ## 🔎 Más Información  
 
-- 🚗 Carnet de conducir **B**  
-- 📚 Interés en aprendizaje continuo y nuevas tecnologías  
+- 🚗 Permiso de conducir **B**  
+- 📚 Interés en aprendizaje continuo y capacidad de adaptacion a las nuevas tecnologias  
 - ⚡ Incorporación inmediata  
-- 🤝 Compromiso, atención al detalle y trabajo en equipo  
+- 🤝 Compromiso y trabajo en equipo  
 
 ---
 
-💬 *“La tecnología no solo resuelve problemas, también crea oportunidades.”*  
